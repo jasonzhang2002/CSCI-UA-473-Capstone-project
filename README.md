@@ -1,5 +1,8 @@
 Capstone Project of NYU Introduction to Machine Learning Fall 2022
 
+Please note, the data used for this project can be found at (http://www.kaggle.com/competitions/csci-ua-473-intro-to-machine-learning-fall-2022) 
+as the files are too large to upload to Github.
+
 Project Description
 
 In this project, you will be working on state prediction of a 4-fingered robot hand given RGBD (RGB
